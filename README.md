@@ -17,7 +17,7 @@ please find below a short programming exercise. The purpose of this exercise is 
 ## FAQ
 
 #### How to submit the results? 
-Please insert all your answers into the `playground.py` file. After you've finished the exercise, send the `playground.py`, `questionnaire.md` and JSON file to [exercise@innospot.de](mailto:exercise@innospot.de?subject=[Programming%20Exercise]).
+Please insert all your code into the `playground.py` file. The questionnaire needs to be answered in the file `questionnaire.md`. After you've finished the exercise, send the `playground.py`, `questionnaire.md` and JSON file to [exercise@innospot.de](mailto:exercise@innospot.de?subject=[Programming%20Exercise]).
 
 #### How much time should I spend on it?
 Usually the task should not take longer than 20 minutes of effort. If you notice that you are spending more than 30 minutes, please stop as it’s likely that you’ve gone into too much detail.
