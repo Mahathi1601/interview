@@ -8,7 +8,7 @@ Most of the given technologies are optionally (if not marked otherwise) and even
 For scoring the different technologies, please use the following score:
 
 ```
-1 : No experienc
+1 : No experience
 2 : Fair
 3 : Good
 4 : Very good
