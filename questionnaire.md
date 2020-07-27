@@ -24,52 +24,52 @@ Comment: This is a comment, but its optionally and there is no need to answer it
 ## Questions
 
 ```
-Python: 
+Python: 2
 Comment: 
 ```
 
 ```
-MongoDB: 
+MongoDB: 1
 Comment: 
 ```
 
 ```
-ElasticSearch: 
+ElasticSearch: 1
 Comment: 
 ```
 
 ```
-HTML / CSS: 
+HTML / CSS: 3
 Comment: 
 ```
 
 ```
-JavaScript: 
+JavaScript:3 
 Comment: 
 ```
 
 ```
-Pandas: 
+Pandas: 3
 Comment: 
 ```
 
 ```
-Scikit-learn: 
+Scikit-learn: 2
 Comment: 
 ```
 
 ```
-Scrapy/Selenium: 
+Scrapy/Selenium: 1
 Comment: 
 ```
 
 ```
-Docker: 
+Docker: 2
 Comment: 
 ```
 
 ```
-AWS: 
+AWS: 1
 Comment: 
 ```
 
